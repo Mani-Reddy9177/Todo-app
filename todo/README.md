@@ -1,7 +1,7 @@
 Todo
 This is a simple Todo application built using React. It demonstrates basic CRUD operations (Create, Read, Update, Delete) using the useState hook.
 
-* What is this project?
+**What is this project?**
 
 This Todo app allows users to:
 
