@@ -11,8 +11,13 @@ Edit existing tasks
 Delete tasks
 
 All operations are handled using React’s useState hook for state management.
-Create:
+**Create:**
+
+
+
 How it works:
+
+
 Take old data from todos
 todos → copy old data
 Add new input
@@ -21,7 +26,9 @@ setTodos() → update state
 
 
 
-Read:
+**Read:**
+
+
 How it works:
 Take todos array
 Use map() to loop
@@ -29,7 +36,9 @@ Show each item on screen
 (“We are displaying todos using map function”)
 
 
-Update:
+**Update:**
+
+
 How it works:
 Copy old todos
 Change one item using index
@@ -37,7 +46,9 @@ Update state using setTodos()
 (“We update a specific todo using its index”)
 
 
-delete:
+**delete:**
+
+
 How it works:
 Loop using filter()
 Remove selected index
